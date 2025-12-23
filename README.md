@@ -10,8 +10,7 @@ This is a simple static website developed using HTML, CSS, and JavaScript.
 - Demonstration of Prototypal Inheritance in JavaScript
 
 ## Live Website
-(Add GitHub Pages URL here)
-
+http://127.0.0.1:3000/index.html?serverWindowId=04875871-d0f7-4be0-ab7d-1f0006c7714e
 ## Technologies Used
 - HTML
 - CSS
